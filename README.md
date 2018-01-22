@@ -1,6 +1,6 @@
-# Address Book
+# Places I've Been
 
-#### A program that allows users to input their contact information.
+#### A program that allows users to log travel info.
 
 #### By **Eric Swotinsky  and Brittany Thirtyacre**
 
@@ -8,20 +8,11 @@
 
 ## Description
 
-The application collects users contact information to store in an address book.
+The application allows users to track locations they have traveled to, as well as associated information and notes on each location.
 
 ## Setup/Installation Requirements
 
 * Copy repository from GitHub to your computer using Terminal command $ git clone and then open index.html in a browser.
-
-
-## Specifications
-
-* The program prompts users to input a first and last name, and appends the full name to a list.
-
-  * Input Example: User inputs their full name.
-  * Output Example: Name appears on the screen underlined.
-
 
 ## Technologies Used
 
